@@ -1,0 +1,15 @@
+
+
+langchain-groq
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg2-binary
+httpx
+requests
+tavily-python
+pytest
